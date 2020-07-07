@@ -8,5 +8,8 @@ A pole is attached by an un-actuated joint to a cart, which moves along a fricti
 pip install gym
 
 ```
+### Before Training
+![Alt Text](start.gif)
 
-![Before Training](start.gif)
+### After Training
+![Alt Text](a.gif)
