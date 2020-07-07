@@ -1,4 +1,4 @@
-# CartPole-v0 Reinforcement Lerning
+# CartPole-v0 Reinforcement Learning
 It is tensorflow implementation of  Actor-Critic Method. 
 
 ## Introduction 
