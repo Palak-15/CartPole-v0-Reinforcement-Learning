@@ -9,4 +9,4 @@ pip install gym
 
 ```
 
-![Before Training](assets/start.gif)
+![Before Training](start.gif)
